@@ -1,3 +1,4 @@
+//dumb solution
 class Solution {
     public int minimumOperations(int[] nums) {
         int count = 0;
