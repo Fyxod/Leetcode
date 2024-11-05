@@ -1,5 +1,5 @@
 class Solution {
-    //an attempt to decrease the runtime(unsuccessful)
+    //an attempt to decrease the runtime(successful)
     public int finalValueAfterOperations(String[] operations) {
         int X = 0;
         for (String s : operations) {
