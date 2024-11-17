@@ -10,6 +10,8 @@ class Solution {
             }
             if(sum > wealth)
             wealth = sum;
+            if(sum == n*100) //more optimization
+            break;
         }
         return wealth;
     }
