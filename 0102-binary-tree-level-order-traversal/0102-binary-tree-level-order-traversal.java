@@ -16,7 +16,7 @@
 class Solution {
     public List<List<Integer>> levelOrder(TreeNode root) {
         List<List<Integer>> ans = new ArrayList<>();
-        Queue<TreeNode> q = new ArrayDeque<>();
+        Queue<TreeNode> q = new LinkedList<>();
         TreeNode zero = new TreeNode(Integer.MIN_VALUE);
         if(root == null){
             return ans;
@@ -37,7 +37,7 @@ class Solution {
                 ans.add(new ArrayList<>(list));
                 list.clear();
                 if(!q.isEmpty())
-                    q.offer(zero);
+                   q.offer(zero);
             }
         }
         return ans;
