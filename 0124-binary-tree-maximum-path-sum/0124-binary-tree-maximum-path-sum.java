@@ -26,11 +26,12 @@ class Solution {
         int leftS = maxSum(root.left);
         int rightS = maxSum(root.right);
 
-            max = Math.max(Math.max(
-                Math.max(max, root.val + leftS + rightS),
-                Math.max(root.val + leftS, root.val + rightS)
-            ), root.val);
+    max = Arrays.stream(new int[]{
+        max, root.val + leftS + rightS, root.val + leftS, root.val + rightS, root.val
+        }).max().getAsInt();
 
-        return root.val + Math.max(leftS, rightS);
+        return Arrays.stream(new int[]{
+        root.val + leftS, root.val + rightS, root.val
+        }).max().getAsInt();
     }
 }
