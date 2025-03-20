@@ -19,6 +19,7 @@ class Solution {
         List<Integer> list = new ArrayList<>();
         if (root == null){
             return list;
+
         }
         stack.push(root);
         while(!stack.isEmpty()){
