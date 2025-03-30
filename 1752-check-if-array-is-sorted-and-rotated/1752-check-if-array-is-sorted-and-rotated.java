@@ -13,8 +13,6 @@ class Solution {
         }
 
         if(nums[i] > nums[i - 1] && i == size  - 1) return true;
-        System.out.println(nums[size - 1]);
-        System.out.println(nums[0]);
         if(nums[size - 1] > nums[0]) return false;
 
         while(i < size - 1){
