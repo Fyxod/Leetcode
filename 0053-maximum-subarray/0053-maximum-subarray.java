@@ -1,6 +1,5 @@
 class Solution {
     public int maxSubArray(int[] nums) {
-        int size = nums.length;
         int sum = 0;
         int max = nums[0];
 
