@@ -6,7 +6,9 @@ class Solution {
         int content = 0;
         int i = 0;
 
-        while(content < g.length && i < s.length){
+        int size1 = g.length;
+        int size2 = s.length;
+        while(content < size1 && i < size2){
             if(s[i] >= g[content]){
                 i++;
                 content++;
