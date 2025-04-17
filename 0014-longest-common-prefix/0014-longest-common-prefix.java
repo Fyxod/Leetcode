@@ -1,5 +1,6 @@
 class Solution {
     public String longestCommonPrefix(String[] strs) {
+        // jsurt checking again
         String ans = "";
         int minIndex = 0;
         int size = strs.length;
