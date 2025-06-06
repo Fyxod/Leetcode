@@ -1,17 +1,20 @@
 class Solution {
-    void reverse(int arr[], int a, int b){
-        while(a < b){
-            int temp = arr[a];
-            arr[a] = arr[b];
-            arr[b] = temp;
-            a++;b--;
+    void reverse(int[] arr, int start, int end){
+        while(start <= end){
+            int temp = arr[start];
+            arr[start] = arr[end];
+            arr[end] = temp;
+            start++;
+            end--;
         }
     }
     public void rotate(int[] nums, int k) {
-        if(nums.length == 1) return;
-        k = k % nums.length;
-        reverse(nums, 0, nums.length-k-1);
-        reverse(nums, nums.length-k, nums.length-1);
-        reverse(nums, 0, nums.length-1);
+        int size = nums.length;
+        k = k % size;
+        reverse(nums, 0, size - k - 1);
+        reverse(nums, size - k, size - 1);
+        reverse(nums, 0, size - 1);
+        //trying system.gc for the first time
+        System.gc();
     }
 }
