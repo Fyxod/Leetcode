@@ -37,6 +37,7 @@ Repository to track my leetcode submissions
 | ------- | ------- |
 | [0322-coin-change](https://github.com/Fyxod/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Fyxod/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0860-lemonade-change](https://github.com/Fyxod/Leetcode/tree/main/0860-lemonade-change/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,4 +54,8 @@ Repository to track my leetcode submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/Fyxod/Leetcode/tree/main/0322-coin-change/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0860-lemonade-change](https://github.com/Fyxod/Leetcode/tree/main/0860-lemonade-change/) | Easy |
 <!---LeetCode Topics End-->
