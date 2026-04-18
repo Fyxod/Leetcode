@@ -37,6 +37,7 @@ Repository to track my leetcode submissions
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/Fyxod/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Fyxod/Leetcode/tree/main/0055-jump-game/) | Medium |
+| [0057-insert-interval](https://github.com/Fyxod/Leetcode/tree/main/0057-insert-interval/) | Medium |
 | [0135-candy](https://github.com/Fyxod/Leetcode/tree/main/0135-candy/) | Hard |
 | [0322-coin-change](https://github.com/Fyxod/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Fyxod/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
