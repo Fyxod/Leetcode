@@ -77,6 +77,7 @@ Repository to track my leetcode submissions
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0092-reverse-linked-list-ii](https://github.com/Fyxod/Leetcode/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0146-lru-cache](https://github.com/Fyxod/Leetcode/tree/main/0146-lru-cache/) | Medium |
 ## Design
 | Problem Name | Difficulty |
