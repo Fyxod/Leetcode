@@ -79,6 +79,7 @@ Repository to track my leetcode submissions
 | ------- | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/Fyxod/Leetcode/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0146-lru-cache](https://github.com/Fyxod/Leetcode/tree/main/0146-lru-cache/) | Medium |
+| [0206-reverse-linked-list](https://github.com/Fyxod/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Fyxod/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Design
 | Problem Name | Difficulty |
@@ -92,4 +93,8 @@ Repository to track my leetcode submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/Fyxod/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/Fyxod/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
