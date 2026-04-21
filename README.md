@@ -86,6 +86,7 @@ Repository to track my leetcode submissions
 | [0206-reverse-linked-list](https://github.com/Fyxod/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Fyxod/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/Fyxod/Leetcode/tree/main/0328-odd-even-linked-list/) | Medium |
+| [0725-split-linked-list-in-parts](https://github.com/Fyxod/Leetcode/tree/main/0725-split-linked-list-in-parts/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Fyxod/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Fyxod/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Design
