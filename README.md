@@ -19,6 +19,7 @@ Repository to track my leetcode submissions
 | [0451-sort-characters-by-frequency](https://github.com/Fyxod/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Fyxod/Leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Fyxod/Leetcode/tree/main/2516-take-k-of-each-character-from-left-and-right/) | Medium |
+| [2833-furthest-point-from-origin](https://github.com/Fyxod/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -42,6 +43,7 @@ Repository to track my leetcode submissions
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Fyxod/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Fyxod/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [2833-furthest-point-from-origin](https://github.com/Fyxod/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
