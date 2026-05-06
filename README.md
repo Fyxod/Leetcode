@@ -11,12 +11,14 @@ Repository to track my leetcode submissions
 | [0146-lru-cache](https://github.com/Fyxod/Leetcode/tree/main/0146-lru-cache/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Fyxod/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Fyxod/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Fyxod/Leetcode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Fyxod/Leetcode/tree/main/2516-take-k-of-each-character-from-left-and-right/) | Medium |
 | [2615-sum-of-distances](https://github.com/Fyxod/Leetcode/tree/main/2615-sum-of-distances/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Fyxod/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Fyxod/Leetcode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Fyxod/Leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Fyxod/Leetcode/tree/main/2516-take-k-of-each-character-from-left-and-right/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/Fyxod/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
@@ -55,6 +57,7 @@ Repository to track my leetcode submissions
 | [0322-coin-change](https://github.com/Fyxod/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Fyxod/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Fyxod/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Fyxod/Leetcode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0860-lemonade-change](https://github.com/Fyxod/Leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Fyxod/Leetcode/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Fyxod/Leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
