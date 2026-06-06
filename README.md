@@ -136,6 +136,7 @@ Repository to track my leetcode submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Fyxod/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [0050-powx-n](https://github.com/Fyxod/Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0143-reorder-list](https://github.com/Fyxod/Leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Fyxod/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Fyxod/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -162,6 +163,7 @@ Repository to track my leetcode submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Fyxod/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [0050-powx-n](https://github.com/Fyxod/Leetcode/tree/main/0050-powx-n/) | Medium |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Fyxod/Leetcode/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
