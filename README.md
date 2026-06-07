@@ -32,6 +32,7 @@ Repository to track my leetcode submissions
 | [0347-top-k-frequent-elements](https://github.com/Fyxod/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Fyxod/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Fyxod/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Fyxod/Leetcode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,6 +62,7 @@ Repository to track my leetcode submissions
 | [0435-non-overlapping-intervals](https://github.com/Fyxod/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Fyxod/Leetcode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0860-lemonade-change](https://github.com/Fyxod/Leetcode/tree/main/0860-lemonade-change/) | Easy |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Fyxod/Leetcode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Fyxod/Leetcode/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Fyxod/Leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2615-sum-of-distances](https://github.com/Fyxod/Leetcode/tree/main/2615-sum-of-distances/) | Medium |
@@ -133,6 +135,7 @@ Repository to track my leetcode submissions
 | [0148-sort-list](https://github.com/Fyxod/Leetcode/tree/main/0148-sort-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Fyxod/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Fyxod/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Fyxod/Leetcode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Fyxod/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Fyxod/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Recursion
@@ -187,4 +190,8 @@ Repository to track my leetcode submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Fyxod/Leetcode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Fyxod/Leetcode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 <!---LeetCode Topics End-->
