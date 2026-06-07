@@ -52,6 +52,7 @@ Repository to track my leetcode submissions
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/Fyxod/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0045-jump-game-ii](https://github.com/Fyxod/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Fyxod/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/Fyxod/Leetcode/tree/main/0056-merge-intervals/) | Medium |
@@ -185,6 +186,7 @@ Repository to track my leetcode submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Fyxod/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0039-combination-sum](https://github.com/Fyxod/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Fyxod/Leetcode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
