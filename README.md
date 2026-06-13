@@ -61,6 +61,7 @@ Repository to track my leetcode submissions
 | [0078-subsets](https://github.com/Fyxod/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Fyxod/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0135-candy](https://github.com/Fyxod/Leetcode/tree/main/0135-candy/) | Hard |
+| [0216-combination-sum-iii](https://github.com/Fyxod/Leetcode/tree/main/0216-combination-sum-iii/) | Medium |
 | [0322-coin-change](https://github.com/Fyxod/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Fyxod/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Fyxod/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -193,6 +194,7 @@ Repository to track my leetcode submissions
 | [0040-combination-sum-ii](https://github.com/Fyxod/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0078-subsets](https://github.com/Fyxod/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Fyxod/Leetcode/tree/main/0090-subsets-ii/) | Medium |
+| [0216-combination-sum-iii](https://github.com/Fyxod/Leetcode/tree/main/0216-combination-sum-iii/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Fyxod/Leetcode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
