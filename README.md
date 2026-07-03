@@ -69,6 +69,7 @@ Repository to track my leetcode submissions
 | [0322-coin-change](https://github.com/Fyxod/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Fyxod/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Fyxod/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0542-01-matrix](https://github.com/Fyxod/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Fyxod/Leetcode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0733-flood-fill](https://github.com/Fyxod/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0860-lemonade-change](https://github.com/Fyxod/Leetcode/tree/main/0860-lemonade-change/) | Easy |
@@ -95,10 +96,12 @@ Repository to track my leetcode submissions
 | [0139-word-break](https://github.com/Fyxod/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0322-coin-change](https://github.com/Fyxod/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Fyxod/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0542-01-matrix](https://github.com/Fyxod/Leetcode/tree/main/0542-01-matrix/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/Fyxod/Leetcode/tree/main/0322-coin-change/) | Medium |
+| [0542-01-matrix](https://github.com/Fyxod/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/Fyxod/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/Fyxod/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/Fyxod/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
@@ -243,6 +246,7 @@ Repository to track my leetcode submissions
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0542-01-matrix](https://github.com/Fyxod/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/Fyxod/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Fyxod/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 <!---LeetCode Topics End-->
