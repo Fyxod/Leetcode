@@ -97,6 +97,7 @@ Repository to track my leetcode submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/Fyxod/Leetcode/tree/main/0322-coin-change/) | Medium |
+| [0547-number-of-provinces](https://github.com/Fyxod/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Fyxod/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Fyxod/Leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Greedy
@@ -194,6 +195,7 @@ Repository to track my leetcode submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Fyxod/Leetcode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+| [0547-number-of-provinces](https://github.com/Fyxod/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Fyxod/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Fyxod/Leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Backtracking
@@ -224,11 +226,13 @@ Repository to track my leetcode submissions
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/Fyxod/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Fyxod/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Fyxod/Leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/Fyxod/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Fyxod/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Fyxod/Leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 <!---LeetCode Topics End-->
