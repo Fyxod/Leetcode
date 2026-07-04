@@ -40,6 +40,7 @@ Repository to track my leetcode submissions
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Fyxod/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Fyxod/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/Fyxod/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,6 +79,7 @@ Repository to track my leetcode submissions
 | [0994-rotting-oranges](https://github.com/Fyxod/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Fyxod/Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Fyxod/Leetcode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/Fyxod/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Fyxod/Leetcode/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Fyxod/Leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2615-sum-of-distances](https://github.com/Fyxod/Leetcode/tree/main/2615-sum-of-distances/) | Medium |
@@ -115,6 +117,7 @@ Repository to track my leetcode submissions
 | [0802-find-eventual-safe-states](https://github.com/Fyxod/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0994-rotting-oranges](https://github.com/Fyxod/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Fyxod/Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/Fyxod/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Fyxod/Leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -219,6 +222,7 @@ Repository to track my leetcode submissions
 | [0733-flood-fill](https://github.com/Fyxod/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/Fyxod/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Fyxod/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/Fyxod/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Fyxod/Leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -241,6 +245,7 @@ Repository to track my leetcode submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Fyxod/Leetcode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/Fyxod/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -252,6 +257,7 @@ Repository to track my leetcode submissions
 | [0200-number-of-islands](https://github.com/Fyxod/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/Fyxod/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Fyxod/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/Fyxod/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Fyxod/Leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -271,6 +277,7 @@ Repository to track my leetcode submissions
 | [0733-flood-fill](https://github.com/Fyxod/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Fyxod/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Fyxod/Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/Fyxod/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
