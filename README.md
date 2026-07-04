@@ -105,6 +105,7 @@ Repository to track my leetcode submissions
 | [0435-non-overlapping-intervals](https://github.com/Fyxod/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0542-01-matrix](https://github.com/Fyxod/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Fyxod/Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Fyxod/Leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -276,6 +277,7 @@ Repository to track my leetcode submissions
 | [0785-is-graph-bipartite](https://github.com/Fyxod/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Fyxod/Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Fyxod/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Fyxod/Leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Fyxod/Leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -293,9 +295,11 @@ Repository to track my leetcode submissions
 | [0207-course-schedule](https://github.com/Fyxod/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Fyxod/Leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Fyxod/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Fyxod/Leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/Fyxod/Leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Fyxod/Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Fyxod/Leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 <!---LeetCode Topics End-->
