@@ -111,6 +111,7 @@ Repository to track my leetcode submissions
 | [0547-number-of-provinces](https://github.com/Fyxod/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/Fyxod/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/Fyxod/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/Fyxod/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0994-rotting-oranges](https://github.com/Fyxod/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Fyxod/Leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Greedy
@@ -215,6 +216,7 @@ Repository to track my leetcode submissions
 | [0547-number-of-provinces](https://github.com/Fyxod/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/Fyxod/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/Fyxod/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/Fyxod/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Fyxod/Leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -256,6 +258,7 @@ Repository to track my leetcode submissions
 | [0210-course-schedule-ii](https://github.com/Fyxod/Leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/Fyxod/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Fyxod/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/Fyxod/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Fyxod/Leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -270,4 +273,5 @@ Repository to track my leetcode submissions
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Fyxod/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Fyxod/Leetcode/tree/main/0210-course-schedule-ii/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/Fyxod/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 <!---LeetCode Topics End-->
