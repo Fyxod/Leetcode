@@ -65,6 +65,7 @@ Repository to track my leetcode submissions
 | [0056-merge-intervals](https://github.com/Fyxod/Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/Fyxod/Leetcode/tree/main/0057-insert-interval/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Fyxod/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/Fyxod/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0078-subsets](https://github.com/Fyxod/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Fyxod/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0130-surrounded-regions](https://github.com/Fyxod/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
@@ -105,6 +106,7 @@ Repository to track my leetcode submissions
 | [0055-jump-game](https://github.com/Fyxod/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/Fyxod/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Fyxod/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/Fyxod/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/Fyxod/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0139-word-break](https://github.com/Fyxod/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/Fyxod/Leetcode/tree/main/0198-house-robber/) | Medium |
@@ -294,6 +296,7 @@ Repository to track my leetcode submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/Fyxod/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/Fyxod/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0130-surrounded-regions](https://github.com/Fyxod/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Fyxod/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0542-01-matrix](https://github.com/Fyxod/Leetcode/tree/main/0542-01-matrix/) | Medium |
