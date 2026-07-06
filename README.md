@@ -102,6 +102,7 @@ Repository to track my leetcode submissions
 | [0022-generate-parentheses](https://github.com/Fyxod/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0045-jump-game-ii](https://github.com/Fyxod/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Fyxod/Leetcode/tree/main/0055-jump-game/) | Medium |
+| [0062-unique-paths](https://github.com/Fyxod/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Fyxod/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0139-word-break](https://github.com/Fyxod/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/Fyxod/Leetcode/tree/main/0198-house-robber/) | Medium |
@@ -215,6 +216,7 @@ Repository to track my leetcode submissions
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Fyxod/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/Fyxod/Leetcode/tree/main/0050-powx-n/) | Medium |
+| [0062-unique-paths](https://github.com/Fyxod/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Fyxod/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Fyxod/Leetcode/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [1922-count-good-numbers](https://github.com/Fyxod/Leetcode/tree/main/1922-count-good-numbers/) | Medium |
@@ -309,4 +311,8 @@ Repository to track my leetcode submissions
 | [0743-network-delay-time](https://github.com/Fyxod/Leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Fyxod/Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Fyxod/Leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/Fyxod/Leetcode/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
