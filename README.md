@@ -78,6 +78,7 @@ Repository to track my leetcode submissions
 | [0347-top-k-frequent-elements](https://github.com/Fyxod/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0403-frog-jump](https://github.com/Fyxod/Leetcode/tree/main/0403-frog-jump/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/Fyxod/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0494-target-sum](https://github.com/Fyxod/Leetcode/tree/main/0494-target-sum/) | Medium |
 | [0542-01-matrix](https://github.com/Fyxod/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Fyxod/Leetcode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0733-flood-fill](https://github.com/Fyxod/Leetcode/tree/main/0733-flood-fill/) | Easy |
@@ -114,6 +115,7 @@ Repository to track my leetcode submissions
 | [0322-coin-change](https://github.com/Fyxod/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0403-frog-jump](https://github.com/Fyxod/Leetcode/tree/main/0403-frog-jump/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/Fyxod/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0494-target-sum](https://github.com/Fyxod/Leetcode/tree/main/0494-target-sum/) | Medium |
 | [0542-01-matrix](https://github.com/Fyxod/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0741-cherry-pickup](https://github.com/Fyxod/Leetcode/tree/main/0741-cherry-pickup/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Fyxod/Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -256,6 +258,7 @@ Repository to track my leetcode submissions
 | [0078-subsets](https://github.com/Fyxod/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Fyxod/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Fyxod/Leetcode/tree/main/0216-combination-sum-iii/) | Medium |
+| [0494-target-sum](https://github.com/Fyxod/Leetcode/tree/main/0494-target-sum/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Fyxod/Leetcode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
