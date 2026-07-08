@@ -76,6 +76,7 @@ Repository to track my leetcode submissions
 | [0198-house-robber](https://github.com/Fyxod/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Fyxod/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Fyxod/Leetcode/tree/main/0216-combination-sum-iii/) | Medium |
+| [0312-burst-balloons](https://github.com/Fyxod/Leetcode/tree/main/0312-burst-balloons/) | Hard |
 | [0322-coin-change](https://github.com/Fyxod/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Fyxod/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0403-frog-jump](https://github.com/Fyxod/Leetcode/tree/main/0403-frog-jump/) | Hard |
@@ -116,6 +117,7 @@ Repository to track my leetcode submissions
 | [0070-climbing-stairs](https://github.com/Fyxod/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0139-word-break](https://github.com/Fyxod/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/Fyxod/Leetcode/tree/main/0198-house-robber/) | Medium |
+| [0312-burst-balloons](https://github.com/Fyxod/Leetcode/tree/main/0312-burst-balloons/) | Hard |
 | [0322-coin-change](https://github.com/Fyxod/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0403-frog-jump](https://github.com/Fyxod/Leetcode/tree/main/0403-frog-jump/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/Fyxod/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
