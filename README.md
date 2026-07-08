@@ -22,6 +22,7 @@ Repository to track my leetcode submissions
 | [0139-word-break](https://github.com/Fyxod/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Fyxod/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Fyxod/Leetcode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
+| [1143-longest-common-subsequence](https://github.com/Fyxod/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Fyxod/Leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Fyxod/Leetcode/tree/main/2516-take-k-of-each-character-from-left-and-right/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/Fyxod/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
@@ -121,6 +122,7 @@ Repository to track my leetcode submissions
 | [0542-01-matrix](https://github.com/Fyxod/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0741-cherry-pickup](https://github.com/Fyxod/Leetcode/tree/main/0741-cherry-pickup/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Fyxod/Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/Fyxod/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Fyxod/Leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
