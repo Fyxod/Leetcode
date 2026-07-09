@@ -121,6 +121,7 @@ Repository to track my leetcode submissions
 | [0198-house-robber](https://github.com/Fyxod/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0312-burst-balloons](https://github.com/Fyxod/Leetcode/tree/main/0312-burst-balloons/) | Hard |
 | [0322-coin-change](https://github.com/Fyxod/Leetcode/tree/main/0322-coin-change/) | Medium |
+| [0357-count-numbers-with-unique-digits](https://github.com/Fyxod/Leetcode/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0403-frog-jump](https://github.com/Fyxod/Leetcode/tree/main/0403-frog-jump/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/Fyxod/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0494-target-sum](https://github.com/Fyxod/Leetcode/tree/main/0494-target-sum/) | Medium |
@@ -239,6 +240,7 @@ Repository to track my leetcode submissions
 | [0050-powx-n](https://github.com/Fyxod/Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/Fyxod/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Fyxod/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0357-count-numbers-with-unique-digits](https://github.com/Fyxod/Leetcode/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Fyxod/Leetcode/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [1922-count-good-numbers](https://github.com/Fyxod/Leetcode/tree/main/1922-count-good-numbers/) | Medium |
 ## Merge Sort
@@ -271,6 +273,7 @@ Repository to track my leetcode submissions
 | [0078-subsets](https://github.com/Fyxod/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Fyxod/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Fyxod/Leetcode/tree/main/0216-combination-sum-iii/) | Medium |
+| [0357-count-numbers-with-unique-digits](https://github.com/Fyxod/Leetcode/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0494-target-sum](https://github.com/Fyxod/Leetcode/tree/main/0494-target-sum/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/Fyxod/Leetcode/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Fyxod/Leetcode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
