@@ -75,6 +75,7 @@ Repository to track my leetcode submissions
 | [0139-word-break](https://github.com/Fyxod/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/Fyxod/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Fyxod/Leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/Fyxod/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Fyxod/Leetcode/tree/main/0216-combination-sum-iii/) | Medium |
 | [0312-burst-balloons](https://github.com/Fyxod/Leetcode/tree/main/0312-burst-balloons/) | Hard |
 | [0322-coin-change](https://github.com/Fyxod/Leetcode/tree/main/0322-coin-change/) | Medium |
@@ -231,10 +232,12 @@ Repository to track my leetcode submissions
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Fyxod/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Fyxod/Leetcode/tree/main/2516-take-k-of-each-character-from-left-and-right/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Fyxod/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Fyxod/Leetcode/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [2615-sum-of-distances](https://github.com/Fyxod/Leetcode/tree/main/2615-sum-of-distances/) | Medium |
 ## Math
@@ -298,6 +301,7 @@ Repository to track my leetcode submissions
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Fyxod/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Fyxod/Leetcode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Fyxod/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Memoization
