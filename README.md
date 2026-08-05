@@ -190,6 +190,7 @@ Repository to track my leetcode submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/Fyxod/Leetcode/tree/main/0146-lru-cache/) | Medium |
+| [0232-implement-queue-using-stacks](https://github.com/Fyxod/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -222,6 +223,7 @@ Repository to track my leetcode submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0143-reorder-list](https://github.com/Fyxod/Leetcode/tree/main/0143-reorder-list/) | Medium |
+| [0232-implement-queue-using-stacks](https://github.com/Fyxod/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Fyxod/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Fyxod/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Trie
@@ -382,4 +384,8 @@ Repository to track my leetcode submissions
 | [0337-house-robber-iii](https://github.com/Fyxod/Leetcode/tree/main/0337-house-robber-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Fyxod/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0968-binary-tree-cameras](https://github.com/Fyxod/Leetcode/tree/main/0968-binary-tree-cameras/) | Hard |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Fyxod/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->
