@@ -92,6 +92,7 @@ Repository to track my leetcode submissions
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Fyxod/Leetcode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Fyxod/Leetcode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0733-flood-fill](https://github.com/Fyxod/Leetcode/tree/main/0733-flood-fill/) | Easy |
+| [0735-asteroid-collision](https://github.com/Fyxod/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0741-cherry-pickup](https://github.com/Fyxod/Leetcode/tree/main/0741-cherry-pickup/) | Hard |
 | [0860-lemonade-change](https://github.com/Fyxod/Leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [0907-sum-of-subarray-minimums](https://github.com/Fyxod/Leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
@@ -234,6 +235,7 @@ Repository to track my leetcode submissions
 | [0232-implement-queue-using-stacks](https://github.com/Fyxod/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Fyxod/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Fyxod/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0735-asteroid-collision](https://github.com/Fyxod/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Fyxod/Leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Fyxod/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Trie
@@ -404,4 +406,8 @@ Repository to track my leetcode submissions
 | [0042-trapping-rain-water](https://github.com/Fyxod/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Fyxod/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0907-sum-of-subarray-minimums](https://github.com/Fyxod/Leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0735-asteroid-collision](https://github.com/Fyxod/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 <!---LeetCode Topics End-->
