@@ -71,6 +71,7 @@ Repository to track my leetcode submissions
 | [0063-unique-paths-ii](https://github.com/Fyxod/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Fyxod/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0078-subsets](https://github.com/Fyxod/Leetcode/tree/main/0078-subsets/) | Medium |
+| [0085-maximal-rectangle](https://github.com/Fyxod/Leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0090-subsets-ii](https://github.com/Fyxod/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0130-surrounded-regions](https://github.com/Fyxod/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0135-candy](https://github.com/Fyxod/Leetcode/tree/main/0135-candy/) | Hard |
@@ -124,6 +125,7 @@ Repository to track my leetcode submissions
 | [0063-unique-paths-ii](https://github.com/Fyxod/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Fyxod/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/Fyxod/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0085-maximal-rectangle](https://github.com/Fyxod/Leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Fyxod/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0139-word-break](https://github.com/Fyxod/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/Fyxod/Leetcode/tree/main/0198-house-robber/) | Medium |
@@ -231,6 +233,7 @@ Repository to track my leetcode submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Fyxod/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0085-maximal-rectangle](https://github.com/Fyxod/Leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0143-reorder-list](https://github.com/Fyxod/Leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/Fyxod/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Fyxod/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -351,6 +354,7 @@ Repository to track my leetcode submissions
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/Fyxod/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Fyxod/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
+| [0085-maximal-rectangle](https://github.com/Fyxod/Leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0130-surrounded-regions](https://github.com/Fyxod/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Fyxod/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0542-01-matrix](https://github.com/Fyxod/Leetcode/tree/main/0542-01-matrix/) | Medium |
@@ -404,6 +408,7 @@ Repository to track my leetcode submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Fyxod/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0085-maximal-rectangle](https://github.com/Fyxod/Leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Fyxod/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0907-sum-of-subarray-minimums](https://github.com/Fyxod/Leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 ## Simulation
