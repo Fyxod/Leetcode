@@ -41,6 +41,7 @@ Repository to track my leetcode submissions
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Fyxod/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Fyxod/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Fyxod/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0743-network-delay-time](https://github.com/Fyxod/Leetcode/tree/main/0743-network-delay-time/) | Medium |
@@ -80,6 +81,7 @@ Repository to track my leetcode submissions
 | [0200-number-of-islands](https://github.com/Fyxod/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Fyxod/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Fyxod/Leetcode/tree/main/0216-combination-sum-iii/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/Fyxod/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0312-burst-balloons](https://github.com/Fyxod/Leetcode/tree/main/0312-burst-balloons/) | Hard |
 | [0322-coin-change](https://github.com/Fyxod/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Fyxod/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -250,6 +252,7 @@ Repository to track my leetcode submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Fyxod/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/Fyxod/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Fyxod/Leetcode/tree/main/2516-take-k-of-each-character-from-left-and-right/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -404,6 +407,7 @@ Repository to track my leetcode submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Fyxod/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0239-sliding-window-maximum](https://github.com/Fyxod/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -415,4 +419,12 @@ Repository to track my leetcode submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/Fyxod/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Fyxod/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Fyxod/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
