@@ -12,6 +12,7 @@ Repository to track my leetcode submissions
 | [0146-lru-cache](https://github.com/Fyxod/Leetcode/tree/main/0146-lru-cache/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Fyxod/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Fyxod/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0460-lfu-cache](https://github.com/Fyxod/Leetcode/tree/main/0460-lfu-cache/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Fyxod/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Fyxod/Leetcode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Fyxod/Leetcode/tree/main/2516-take-k-of-each-character-from-left-and-right/) | Medium |
@@ -193,6 +194,7 @@ Repository to track my leetcode submissions
 | [0234-palindrome-linked-list](https://github.com/Fyxod/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/Fyxod/Leetcode/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Fyxod/Leetcode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+| [0460-lfu-cache](https://github.com/Fyxod/Leetcode/tree/main/0460-lfu-cache/) | Hard |
 | [0725-split-linked-list-in-parts](https://github.com/Fyxod/Leetcode/tree/main/0725-split-linked-list-in-parts/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Fyxod/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Fyxod/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -202,12 +204,14 @@ Repository to track my leetcode submissions
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/Fyxod/Leetcode/tree/main/0146-lru-cache/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/Fyxod/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0460-lfu-cache](https://github.com/Fyxod/Leetcode/tree/main/0460-lfu-cache/) | Hard |
 | [0901-online-stock-span](https://github.com/Fyxod/Leetcode/tree/main/0901-online-stock-span/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/Fyxod/Leetcode/tree/main/0146-lru-cache/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Fyxod/Leetcode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+| [0460-lfu-cache](https://github.com/Fyxod/Leetcode/tree/main/0460-lfu-cache/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
