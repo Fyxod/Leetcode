@@ -469,4 +469,8 @@ Repository to track my leetcode submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/Fyxod/Leetcode/tree/main/0901-online-stock-span/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0577-employee-bonus](https://github.com/Fyxod/Leetcode/tree/main/0577-employee-bonus/) | Easy |
 <!---LeetCode Topics End-->
