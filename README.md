@@ -473,4 +473,5 @@ Repository to track my leetcode submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0577-employee-bonus](https://github.com/Fyxod/Leetcode/tree/main/0577-employee-bonus/) | Easy |
+| [1757-recyclable-and-low-fat-products](https://github.com/Fyxod/Leetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
