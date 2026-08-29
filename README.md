@@ -90,6 +90,7 @@ Repository to track my leetcode submissions
 | [0090-subsets-ii](https://github.com/Fyxod/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0130-surrounded-regions](https://github.com/Fyxod/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0135-candy](https://github.com/Fyxod/Leetcode/tree/main/0135-candy/) | Hard |
+| [0136-single-number](https://github.com/Fyxod/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0139-word-break](https://github.com/Fyxod/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/Fyxod/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Fyxod/Leetcode/tree/main/0200-number-of-islands/) | Medium |
@@ -357,6 +358,7 @@ Repository to track my leetcode submissions
 | ------- | ------- |
 | [0078-subsets](https://github.com/Fyxod/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Fyxod/Leetcode/tree/main/0090-subsets-ii/) | Medium |
+| [0136-single-number](https://github.com/Fyxod/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0526-beautiful-arrangement](https://github.com/Fyxod/Leetcode/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Fyxod/Leetcode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Fyxod/Leetcode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
