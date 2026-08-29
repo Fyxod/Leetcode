@@ -74,6 +74,7 @@ Repository to track my leetcode submissions
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Fyxod/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0039-combination-sum](https://github.com/Fyxod/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Fyxod/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Fyxod/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
@@ -234,6 +235,7 @@ Repository to track my leetcode submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Fyxod/Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Fyxod/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Fyxod/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/Fyxod/Leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Fyxod/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
