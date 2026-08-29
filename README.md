@@ -123,6 +123,7 @@ Repository to track my leetcode submissions
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Fyxod/Leetcode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/Fyxod/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Fyxod/Leetcode/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Fyxod/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Fyxod/Leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2615-sum-of-distances](https://github.com/Fyxod/Leetcode/tree/main/2615-sum-of-distances/) | Medium |
 ## Divide and Conquer
