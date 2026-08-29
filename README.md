@@ -46,6 +46,7 @@ Repository to track my leetcode submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/Fyxod/Leetcode/tree/main/0056-merge-intervals/) | Medium |
+| [0075-sort-colors](https://github.com/Fyxod/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0148-sort-list](https://github.com/Fyxod/Leetcode/tree/main/0148-sort-list/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Fyxod/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Fyxod/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -88,6 +89,7 @@ Repository to track my leetcode submissions
 | [0057-insert-interval](https://github.com/Fyxod/Leetcode/tree/main/0057-insert-interval/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Fyxod/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Fyxod/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
+| [0075-sort-colors](https://github.com/Fyxod/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/Fyxod/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0085-maximal-rectangle](https://github.com/Fyxod/Leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0090-subsets-ii](https://github.com/Fyxod/Leetcode/tree/main/0090-subsets-ii/) | Medium |
@@ -245,6 +247,7 @@ Repository to track my leetcode submissions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Fyxod/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Fyxod/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/Fyxod/Leetcode/tree/main/0061-rotate-list/) | Medium |
+| [0075-sort-colors](https://github.com/Fyxod/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Fyxod/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Fyxod/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/Fyxod/Leetcode/tree/main/0143-reorder-list/) | Medium |
@@ -498,4 +501,12 @@ Repository to track my leetcode submissions
 | [1661-average-time-of-process-per-machine](https://github.com/Fyxod/Leetcode/tree/main/1661-average-time-of-process-per-machine/) | Easy |
 | [1683-invalid-tweets](https://github.com/Fyxod/Leetcode/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Fyxod/Leetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Fyxod/Leetcode/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Fyxod/Leetcode/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
