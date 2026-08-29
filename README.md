@@ -87,6 +87,7 @@ Repository to track my leetcode submissions
 | [0042-trapping-rain-water](https://github.com/Fyxod/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/Fyxod/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0051-n-queens](https://github.com/Fyxod/Leetcode/tree/main/0051-n-queens/) | Hard |
+| [0053-maximum-subarray](https://github.com/Fyxod/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Fyxod/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/Fyxod/Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/Fyxod/Leetcode/tree/main/0057-insert-interval/) | Medium |
@@ -143,6 +144,7 @@ Repository to track my leetcode submissions
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Fyxod/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0148-sort-list](https://github.com/Fyxod/Leetcode/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/Fyxod/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Fyxod/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -156,6 +158,7 @@ Repository to track my leetcode submissions
 | [0022-generate-parentheses](https://github.com/Fyxod/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Fyxod/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/Fyxod/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
+| [0053-maximum-subarray](https://github.com/Fyxod/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Fyxod/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/Fyxod/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Fyxod/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
