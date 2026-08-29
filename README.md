@@ -17,6 +17,7 @@ Repository to track my leetcode submissions
 | [0451-sort-characters-by-frequency](https://github.com/Fyxod/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0460-lfu-cache](https://github.com/Fyxod/Leetcode/tree/main/0460-lfu-cache/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Fyxod/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/Fyxod/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Fyxod/Leetcode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Fyxod/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/Fyxod/Leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
@@ -109,6 +110,7 @@ Repository to track my leetcode submissions
 | [0518-coin-change-ii](https://github.com/Fyxod/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/Fyxod/Leetcode/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0542-01-matrix](https://github.com/Fyxod/Leetcode/tree/main/0542-01-matrix/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Fyxod/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Fyxod/Leetcode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Fyxod/Leetcode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0733-flood-fill](https://github.com/Fyxod/Leetcode/tree/main/0733-flood-fill/) | Easy |
@@ -297,6 +299,7 @@ Repository to track my leetcode submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Fyxod/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Fyxod/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Fyxod/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Fyxod/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Fyxod/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
