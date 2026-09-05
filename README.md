@@ -91,6 +91,7 @@ Repository to track my leetcode submissions
 | [0040-combination-sum-ii](https://github.com/Fyxod/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Fyxod/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/Fyxod/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
+| [0048-rotate-image](https://github.com/Fyxod/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0051-n-queens](https://github.com/Fyxod/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Fyxod/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Fyxod/Leetcode/tree/main/0055-jump-game/) | Medium |
@@ -334,6 +335,7 @@ Repository to track my leetcode submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Fyxod/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [0048-rotate-image](https://github.com/Fyxod/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/Fyxod/Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/Fyxod/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Fyxod/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
@@ -428,6 +430,7 @@ Repository to track my leetcode submissions
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Fyxod/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Fyxod/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Fyxod/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0085-maximal-rectangle](https://github.com/Fyxod/Leetcode/tree/main/0085-maximal-rectangle/) | Hard |
