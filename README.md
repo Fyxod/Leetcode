@@ -136,6 +136,7 @@ Repository to track my leetcode submissions
 | [0860-lemonade-change](https://github.com/Fyxod/Leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Fyxod/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Fyxod/Leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [0941-valid-mountain-array](https://github.com/Fyxod/Leetcode/tree/main/0941-valid-mountain-array/) | Easy |
 | [0992-subarrays-with-k-different-integers](https://github.com/Fyxod/Leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [0994-rotting-oranges](https://github.com/Fyxod/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Fyxod/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
