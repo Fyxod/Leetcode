@@ -97,6 +97,7 @@ Repository to track my leetcode submissions
 | [0048-rotate-image](https://github.com/Fyxod/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0051-n-queens](https://github.com/Fyxod/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Fyxod/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/Fyxod/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/Fyxod/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/Fyxod/Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/Fyxod/Leetcode/tree/main/0057-insert-interval/) | Medium |
@@ -444,6 +445,7 @@ Repository to track my leetcode submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Fyxod/Leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/Fyxod/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Fyxod/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Fyxod/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0085-maximal-rectangle](https://github.com/Fyxod/Leetcode/tree/main/0085-maximal-rectangle/) | Hard |
@@ -508,6 +510,7 @@ Repository to track my leetcode submissions
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/Fyxod/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0735-asteroid-collision](https://github.com/Fyxod/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Fyxod/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Monotonic Queue
