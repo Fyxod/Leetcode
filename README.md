@@ -576,4 +576,12 @@ Repository to track my leetcode submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0845-longest-mountain-in-array](https://github.com/Fyxod/Leetcode/tree/main/0845-longest-mountain-in-array/) | Medium |
+## Graph Coloring
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/Fyxod/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+## Bipartite Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/Fyxod/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 <!---LeetCode Topics End-->
