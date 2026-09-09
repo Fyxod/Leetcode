@@ -26,6 +26,7 @@ Repository to track my leetcode submissions
 | [0992-subarrays-with-k-different-integers](https://github.com/Fyxod/Leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/Fyxod/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Fyxod/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Fyxod/Leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Fyxod/Leetcode/tree/main/2516-take-k-of-each-character-from-left-and-right/) | Medium |
 | [2615-sum-of-distances](https://github.com/Fyxod/Leetcode/tree/main/2615-sum-of-distances/) | Medium |
 ## String
@@ -225,6 +226,7 @@ Repository to track my leetcode submissions
 | [0994-rotting-oranges](https://github.com/Fyxod/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Fyxod/Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Fyxod/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Fyxod/Leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Fyxod/Leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -384,6 +386,7 @@ Repository to track my leetcode submissions
 | [0834-sum-of-distances-in-tree](https://github.com/Fyxod/Leetcode/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0968-binary-tree-cameras](https://github.com/Fyxod/Leetcode/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/Fyxod/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Fyxod/Leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Fyxod/Leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -491,6 +494,7 @@ Repository to track my leetcode submissions
 | [0543-diameter-of-binary-tree](https://github.com/Fyxod/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0834-sum-of-distances-in-tree](https://github.com/Fyxod/Leetcode/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0968-binary-tree-cameras](https://github.com/Fyxod/Leetcode/tree/main/0968-binary-tree-cameras/) | Hard |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Fyxod/Leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -498,6 +502,7 @@ Repository to track my leetcode submissions
 | [0337-house-robber-iii](https://github.com/Fyxod/Leetcode/tree/main/0337-house-robber-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Fyxod/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0968-binary-tree-cameras](https://github.com/Fyxod/Leetcode/tree/main/0968-binary-tree-cameras/) | Hard |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Fyxod/Leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
