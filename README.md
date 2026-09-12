@@ -212,6 +212,7 @@ Repository to track my leetcode submissions
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/Fyxod/Leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0130-surrounded-regions](https://github.com/Fyxod/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Fyxod/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Fyxod/Leetcode/tree/main/0207-course-schedule/) | Medium |
@@ -492,6 +493,7 @@ Repository to track my leetcode submissions
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/Fyxod/Leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Fyxod/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Fyxod/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0337-house-robber-iii](https://github.com/Fyxod/Leetcode/tree/main/0337-house-robber-iii/) | Medium |
@@ -502,6 +504,7 @@ Repository to track my leetcode submissions
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/Fyxod/Leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Fyxod/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Fyxod/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0337-house-robber-iii](https://github.com/Fyxod/Leetcode/tree/main/0337-house-robber-iii/) | Medium |
