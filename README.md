@@ -214,6 +214,7 @@ Repository to track my leetcode submissions
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Fyxod/Leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0130-surrounded-regions](https://github.com/Fyxod/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/Fyxod/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/Fyxod/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Fyxod/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Fyxod/Leetcode/tree/main/0210-course-schedule-ii/) | Medium |
@@ -374,6 +375,7 @@ Repository to track my leetcode submissions
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Fyxod/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0130-surrounded-regions](https://github.com/Fyxod/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/Fyxod/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/Fyxod/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Fyxod/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Fyxod/Leetcode/tree/main/0210-course-schedule-ii/) | Medium |
@@ -495,6 +497,7 @@ Repository to track my leetcode submissions
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Fyxod/Leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Fyxod/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0199-binary-tree-right-side-view](https://github.com/Fyxod/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Fyxod/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0337-house-robber-iii](https://github.com/Fyxod/Leetcode/tree/main/0337-house-robber-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Fyxod/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -506,6 +509,7 @@ Repository to track my leetcode submissions
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Fyxod/Leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Fyxod/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0199-binary-tree-right-side-view](https://github.com/Fyxod/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Fyxod/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0337-house-robber-iii](https://github.com/Fyxod/Leetcode/tree/main/0337-house-robber-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Fyxod/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
