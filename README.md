@@ -36,6 +36,7 @@ Repository to track my leetcode submissions
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Fyxod/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Fyxod/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/Fyxod/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Fyxod/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Fyxod/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0139-word-break](https://github.com/Fyxod/Leetcode/tree/main/0139-word-break/) | Medium |
@@ -321,6 +322,7 @@ Repository to track my leetcode submissions
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Fyxod/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Fyxod/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Fyxod/Leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0143-reorder-list](https://github.com/Fyxod/Leetcode/tree/main/0143-reorder-list/) | Medium |
@@ -627,4 +629,8 @@ Repository to track my leetcode submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Fyxod/Leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Fyxod/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
