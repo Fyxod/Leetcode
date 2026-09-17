@@ -60,6 +60,7 @@ Repository to track my leetcode submissions
 | [0075-sort-colors](https://github.com/Fyxod/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0148-sort-list](https://github.com/Fyxod/Leetcode/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/Fyxod/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0295-find-median-from-data-stream](https://github.com/Fyxod/Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Fyxod/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Fyxod/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Fyxod/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -72,6 +73,7 @@ Repository to track my leetcode submissions
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Fyxod/Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/Fyxod/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0295-find-median-from-data-stream](https://github.com/Fyxod/Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Fyxod/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Fyxod/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0621-task-scheduler](https://github.com/Fyxod/Leetcode/tree/main/0621-task-scheduler/) | Medium |
@@ -282,6 +284,7 @@ Repository to track my leetcode submissions
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/Fyxod/Leetcode/tree/main/0146-lru-cache/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/Fyxod/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0295-find-median-from-data-stream](https://github.com/Fyxod/Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0380-insert-delete-getrandom-o1](https://github.com/Fyxod/Leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0460-lfu-cache](https://github.com/Fyxod/Leetcode/tree/main/0460-lfu-cache/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Fyxod/Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
@@ -311,6 +314,7 @@ Repository to track my leetcode submissions
 | [0148-sort-list](https://github.com/Fyxod/Leetcode/tree/main/0148-sort-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Fyxod/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/Fyxod/Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0295-find-median-from-data-stream](https://github.com/Fyxod/Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0845-longest-mountain-in-array](https://github.com/Fyxod/Leetcode/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Fyxod/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Fyxod/Leetcode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
@@ -568,6 +572,7 @@ Repository to track my leetcode submissions
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Fyxod/Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Fyxod/Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0901-online-stock-span](https://github.com/Fyxod/Leetcode/tree/main/0901-online-stock-span/) | Medium |
 ## Database
