@@ -75,6 +75,7 @@ Repository to track my leetcode submissions
 | [0347-top-k-frequent-elements](https://github.com/Fyxod/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Fyxod/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0621-task-scheduler](https://github.com/Fyxod/Leetcode/tree/main/0621-task-scheduler/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Fyxod/Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0743-network-delay-time](https://github.com/Fyxod/Leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Fyxod/Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Fyxod/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -283,6 +284,7 @@ Repository to track my leetcode submissions
 | [0232-implement-queue-using-stacks](https://github.com/Fyxod/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/Fyxod/Leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0460-lfu-cache](https://github.com/Fyxod/Leetcode/tree/main/0460-lfu-cache/) | Hard |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Fyxod/Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0901-online-stock-span](https://github.com/Fyxod/Leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/Fyxod/Leetcode/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Doubly-Linked List
@@ -520,6 +522,7 @@ Repository to track my leetcode submissions
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Fyxod/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0337-house-robber-iii](https://github.com/Fyxod/Leetcode/tree/main/0337-house-robber-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Fyxod/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Fyxod/Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0834-sum-of-distances-in-tree](https://github.com/Fyxod/Leetcode/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0968-binary-tree-cameras](https://github.com/Fyxod/Leetcode/tree/main/0968-binary-tree-cameras/) | Hard |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Fyxod/Leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
@@ -532,6 +535,7 @@ Repository to track my leetcode submissions
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Fyxod/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0337-house-robber-iii](https://github.com/Fyxod/Leetcode/tree/main/0337-house-robber-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Fyxod/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Fyxod/Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0968-binary-tree-cameras](https://github.com/Fyxod/Leetcode/tree/main/0968-binary-tree-cameras/) | Hard |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Fyxod/Leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Queue
@@ -564,6 +568,7 @@ Repository to track my leetcode submissions
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Fyxod/Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0901-online-stock-span](https://github.com/Fyxod/Leetcode/tree/main/0901-online-stock-span/) | Medium |
 ## Database
 | Problem Name | Difficulty |
@@ -640,4 +645,8 @@ Repository to track my leetcode submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Fyxod/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Fyxod/Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 <!---LeetCode Topics End-->
