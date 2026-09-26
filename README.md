@@ -391,6 +391,7 @@ Repository to track my leetcode submissions
 | [0048-rotate-image](https://github.com/Fyxod/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/Fyxod/Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/Fyxod/Leetcode/tree/main/0062-unique-paths/) | Medium |
+| [0069-sqrtx](https://github.com/Fyxod/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Fyxod/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0357-count-numbers-with-unique-digits](https://github.com/Fyxod/Leetcode/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/Fyxod/Leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
@@ -455,6 +456,7 @@ Repository to track my leetcode submissions
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Fyxod/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Fyxod/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0069-sqrtx](https://github.com/Fyxod/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Fyxod/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Fyxod/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/Fyxod/Leetcode/tree/main/0981-time-based-key-value-store/) | Medium |
@@ -692,4 +694,8 @@ Repository to track my leetcode submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Fyxod/Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/Fyxod/Leetcode/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
