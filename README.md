@@ -130,6 +130,7 @@ Repository to track my leetcode submissions
 | [0135-candy](https://github.com/Fyxod/Leetcode/tree/main/0135-candy/) | Hard |
 | [0136-single-number](https://github.com/Fyxod/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0139-word-break](https://github.com/Fyxod/Leetcode/tree/main/0139-word-break/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/Fyxod/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Fyxod/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/Fyxod/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Fyxod/Leetcode/tree/main/0200-number-of-islands/) | Medium |
@@ -204,6 +205,7 @@ Repository to track my leetcode submissions
 | [0118-pascals-triangle](https://github.com/Fyxod/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Fyxod/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0139-word-break](https://github.com/Fyxod/Leetcode/tree/main/0139-word-break/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/Fyxod/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/Fyxod/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0312-burst-balloons](https://github.com/Fyxod/Leetcode/tree/main/0312-burst-balloons/) | Hard |
 | [0322-coin-change](https://github.com/Fyxod/Leetcode/tree/main/0322-coin-change/) | Medium |
