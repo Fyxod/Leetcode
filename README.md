@@ -169,6 +169,7 @@ Repository to track my leetcode submissions
 | [0992-subarrays-with-k-different-integers](https://github.com/Fyxod/Leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [0994-rotting-oranges](https://github.com/Fyxod/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Fyxod/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Fyxod/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Fyxod/Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Fyxod/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Fyxod/Leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
@@ -465,6 +466,7 @@ Repository to track my leetcode submissions
 | [0875-koko-eating-bananas](https://github.com/Fyxod/Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/Fyxod/Leetcode/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Fyxod/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Fyxod/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Fyxod/Leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Fyxod/Leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Fyxod/Leetcode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
