@@ -1,10 +1,10 @@
-<h2><a href="https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets">1482. Minimum Number of Days to Make m Bouquets</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>bloomDay</code>, an integer <code>m</code> and an integer <code>k</code>.</p>
+<h2><a href="https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/">1482. Minimum Number of Days to Make m Bouquets</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>bloomDay</code>, an integer <code>m</code> and an integer <code>k</code>.</p>
 
 <p>You want to make <code>m</code> bouquets. To make a bouquet, you need to use <code>k</code> <strong>adjacent flowers</strong> from the garden.</p>
 
 <p>The garden consists of <code>n</code> flowers, the <code>i<sup>th</sup></code> flower will bloom in the <code>bloomDay[i]</code> and then can be used in <strong>exactly one</strong> bouquet.</p>
 
-<p>Return <em>the minimum number of days you need to wait to be able to make </em><code>m</code><em> bouquets from the garden</em>. If it is impossible to make m bouquets return <code>-1</code>.</p>
+<p>Return the <strong>minimum</strong> number of days you need to wait to be able to make m bouquets from the garden. If it is impossible to make m bouquets return -1.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
