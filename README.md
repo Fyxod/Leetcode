@@ -15,6 +15,7 @@ Repository to track my leetcode submissions
 | [0146-lru-cache](https://github.com/Fyxod/Leetcode/tree/main/0146-lru-cache/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Fyxod/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/Fyxod/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0205-isomorphic-strings](https://github.com/Fyxod/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Fyxod/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/Fyxod/Leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Fyxod/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -43,6 +44,7 @@ Repository to track my leetcode submissions
 | [0076-minimum-window-substring](https://github.com/Fyxod/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0139-word-break](https://github.com/Fyxod/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Fyxod/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0205-isomorphic-strings](https://github.com/Fyxod/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Fyxod/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Fyxod/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Fyxod/Leetcode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
