@@ -50,6 +50,7 @@ Repository to track my leetcode submissions
 | [1021-remove-outermost-parentheses](https://github.com/Fyxod/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Fyxod/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Fyxod/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/Fyxod/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Fyxod/Leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Fyxod/Leetcode/tree/main/2516-take-k-of-each-character-from-left-and-right/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/Fyxod/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
@@ -268,6 +269,7 @@ Repository to track my leetcode submissions
 | [0621-task-scheduler](https://github.com/Fyxod/Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0846-hand-of-straights](https://github.com/Fyxod/Leetcode/tree/main/0846-hand-of-straights/) | Medium |
 | [0860-lemonade-change](https://github.com/Fyxod/Leetcode/tree/main/0860-lemonade-change/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/Fyxod/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -405,6 +407,7 @@ Repository to track my leetcode submissions
 | [0380-insert-delete-getrandom-o1](https://github.com/Fyxod/Leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Fyxod/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Fyxod/Leetcode/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/Fyxod/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1922-count-good-numbers](https://github.com/Fyxod/Leetcode/tree/main/1922-count-good-numbers/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
